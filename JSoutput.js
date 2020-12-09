@@ -1,6 +1,6 @@
 // Enter your code below to edit index.html
 
-yourName = "Ninjafiveo"
+yourName = "Miranda Hinchliffe"
 document.getElementById("yourName").innerHTML = "Miranda Hinchliffe";
 document.getElementById("myBio").innerHTML = "I am a very quiet person, and I can also be a very outgoing, smiley person too. Depends on my day. I love art and I'd say I somewhat of a very creative person "
 document.getElementById("collegeChoice").innerHTML ="I am not entirely sure if I am going to go to college. If I do, I will more than likely join the Navy before, but if I had to choose a college I would do it online, and possibly choose Rasmussen, or some online college like that."
